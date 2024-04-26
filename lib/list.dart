@@ -6,6 +6,7 @@ import 'personVo.dart';
 class ListPage extends StatelessWidget {
   const ListPage({super.key});
 
+
   //기본 레이아웃
   @override
   Widget build(BuildContext context) {
